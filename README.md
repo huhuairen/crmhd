@@ -1,2 +1,0 @@
-# crmhd
-print"heloo xiaofu"
